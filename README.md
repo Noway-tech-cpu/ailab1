@@ -1,4 +1,4 @@
-# 🧟‍♂️ BRAINS... i mean... SYSTEM_ERROR
+
 
 ## HEY, I'M Tilak M K 🧟
 **USN: 4NI24CI115 | F3 Batch**
