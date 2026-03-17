@@ -19,4 +19,3 @@ agent = RationalAgent(goal_position)
 
 # Move the agent towards the goal
 agent.move_towards_goal()
-

@@ -10,4 +10,3 @@ goal_position = 5
 
 # Move towards the goal
 move_towards_goal(initial_position, goal_position)
-

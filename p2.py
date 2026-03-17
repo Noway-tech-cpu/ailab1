@@ -30,4 +30,3 @@ for _ in range(5):  # Simulate for 5 iterations
         location = "B"
     elif action == "Left":
         location = "A"
-
