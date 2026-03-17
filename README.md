@@ -1,11 +1,7 @@
 
 
 ## HEY, I'M Tilak M K 
-<small>**USN: 4NI24CI115**</small>
---
-<small>*AIML B*</small>
---
-<small>**F3 Batch**</small>
+<small>USN: 4NI24CI115 | AIML B | F3 Batch</small>
 
 > Undead systems dev • shambling through low-level rot • craving AI brains
 
