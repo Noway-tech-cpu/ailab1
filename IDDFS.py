@@ -1,5 +1,5 @@
 def dls(graph, node, goal, depth, visited):
-    # Depth-Limited Search
+    
     if depth == 0 and node == goal:
         return True
 
@@ -27,7 +27,7 @@ def iddfs(graph, start, goal, max_depth):
     return False
 
 
-# Example graph (Adjacency List)
+
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
