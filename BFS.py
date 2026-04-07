@@ -1,8 +1,8 @@
 from collections import deque
 
 def bfs(graph, start):
-    visited = set()          # To keep track of visited nodes
-    queue = deque([start])   # Queue for BFS
+    visited = set()          
+    queue = deque([start])  
 
     visited.add(start)
 
@@ -15,7 +15,6 @@ def bfs(graph, start):
                 visited.add(neighbor)
                 queue.append(neighbor)
 
-# Example graph (adjacency list)
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
